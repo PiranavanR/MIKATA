@@ -1,0 +1,76 @@
+{
+    "weather advice" : {
+        "must"              : "A torrential downpour is imminent, you must bring an umbrella to stay dry.",
+        "need"              : "Heavy rain is expected, so you'll definitely need to bring an umbrella.",
+        "likely needed"     : "Dark clouds are gathering, so it's likely you'll need to bring an umbrella.",
+        "likely no need"    : "It's sunny with a slight breeze, so there's likely no need for an umbrella.",
+        "no need"           : "The forecast predicts clear skies, so there's no need to bring an umbrella.",
+        "great"             : "It's a perfect day for outdoor adventures, the weather is great and the air is clean.", 
+        "good"              : "Enjoy the good weather outdoors today, the conditions are favorable.",
+        "fair"              : "The air quality is fair, so outdoor activities are still feasible with caution.",
+        "poor"              : "With the pollution levels high, it's poor conditions for outdoor ventures.",
+        "very poor"         : "The air quality is very poor today, consider avoiding outdoor activities.",
+        "extreme"           : "Extreme UV index warning today, limit outdoor exposure and take comprehensive sun protection measures.",
+        "very high"         : "The UV index is very high, take extra precautions like seeking shade and reapplying sunscreen.",
+        "high"              : "Today's UV index is high, consider seeking shade and wearing protective clothing.",
+        "moderate"          : "With a moderate UV index, it's advisable to wear sunscreen and sunglasses.",
+        "low"               : "The UV index is low, so minimal protection from the sun is required.",
+        "heavy coat"        : "Bundle up with a heavy coat to stay warm in the chilly weather.",
+        "light jacket"      : "A light jacket would be ideal for the mild temperatures today.",
+        "long sleeves"      : "Considering the cooler weather, long sleeves would be a good choice.",
+        "breathable clothing":"Opt for breathable clothing to stay comfortable in the heat.",
+        "shorts"            : "It's warm out, so shorts are a suitable choice for today's attire.",
+        "extreme danger"    : "Conditions pose extreme danger for heat strokes; avoid outdoor activities entirely and seek air-conditioned environments.",
+        "danger"            : "Heatstroke danger is elevated today; minimize outdoor activities and stay hydrated.",
+        "extreme caution"   : "Extreme caution is advised due to high temperatures; avoid strenuous activities and stay hydrated.",
+        "caution"           : "Exercise caution in the heat to prevent heat strokes; stay hydrated and take breaks in the shade.",
+        "safe"              : "Conditions are safe today, but always stay hydrated and avoid prolonged exposure to the sun."
+    },
+    "re-answer" : {
+        "unknown" : [
+            "Let me look that up for you",
+            "I'll look up the",
+            "Let me check the",
+            "I'll do that for you. Just give me a moment to fetch the information",
+            "I'll do that right away",
+            "I'll look it up for you.",
+            "I will look up",
+            " Understood. I'll just be a moment",
+            "Let me fetch the",
+            "I'll search for the",
+            "Let me look up the ",
+            "I'll get that information",
+            "Give me a moment to look up the "
+        ],
+        "verify" : [
+            "My apologies, let me verify that information again for you.",
+            "Let me double-check that information for you.",
+            "Let me double-check that for you to be certain.",
+            "I'll be right back with the verified information for you."
+        ]
+    },
+    "incapable" : {
+        "search-internet" : [
+            "I don't have the capability to browse the internet", 
+            "I'm unable to do that. I suggest you to look up on the official sources or the publisher's website for the most accurate information.",
+            "I'm currently not able to browse the internet or access real-time data",
+            "I'm sorry, I can't do that. But you can easily look it up on the internet using your device.",
+            "I'm sorry, I can't do that. My capabilities are limited to the actions, objects, and characters within my environment as well as the information I have been specifically programmed with",
+            "I'm sorry, I can't do that. But you can easily look it up on the internet using your device",
+            "I'm unable to browse the internet or access external sources to look up the information for you",
+            "I'm not able to do that. But you can easily do it by searching online",
+            "I'm unable to do that myself. However, you can easily look it ",
+            "I'm unable to do that myself. You can check for",
+            "I'll search for the",
+            "Let me look up the ",
+            "I'll be back in a moment with the information.",
+            "let me do that for you"
+        ],
+        "no-information" : [
+            "I'm afraid I don't have that information",
+            "I'm afraid I don't have the"
+        ]
+    },
+    "reminders": []
+
+}
