@@ -15,7 +15,7 @@ Mikata requires **Python 3.x**.
   ```
 
 ### 2. Install Required Libraries
-To use Mikata, you'll need to have the following dependencies installed:
+To use Mikata v1, you'll need to have the following dependencies installed:
 
 - PyQt5
 - TensorFlow
@@ -82,7 +82,7 @@ Mikata supports the following commands:
 
 ## API
 
-Mikata uses Convai API for natural language processing tasks.
+Mikata v1 uses Convai API for natural language processing tasks.
 
 
 ## 🤝Contributing
@@ -97,7 +97,7 @@ If you'd like to contribute to the Mikata project, please follow these steps:
 
 ## 📜License
 
-Mikata is licensed under the [MIT License](LICENSE).
+Mikata is licensed under the [MIT License](https://github.com/PiranavanR/MIKATA/blob/main/LICENSE)
 
 ## 🎯Conclusion  
 Mikata is a versatile AI assistant designed to simplify everyday tasks, from voice commands to web automation. By following the setup instructions, installing dependencies, and configuring required APIs, you can unlock Mikata’s full potential.  
